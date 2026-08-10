@@ -55,7 +55,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sideonkeibulllll&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=ff2e88&icon_color=ffe600&text_color=c8c8d4&border_color=00e5d0" height="170" alt="GitHub Stats"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sideonkeibulllll&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=00e5d0&text_color=c8c8d4&border_color=ff2e88" height="170" alt="Top Languages"/>
 
 </div>
