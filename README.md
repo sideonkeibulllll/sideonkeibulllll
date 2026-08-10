@@ -152,7 +152,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a2e&height=3&section=header" width="100%"/>
 
-<sub><samp>读者即归色者 · 点击即着色 · 浏览即记得</samp></sub>
+<img src="assets/bg/7.webp" width="100%" alt="banner"/>
 
 <br/>
 
