@@ -56,7 +56,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sideonkeibulllll&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=ff2e88&icon_color=ffe600&text_color=c8c8d4&border_color=00e5d0" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sideonkeibulllll&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=00e5d0&text_color=c8c8d4&border_color=ff2e88" height="170" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sideonkeibulllll&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=00e5d0&text_color=c8c8d4&border_color=ff2e88" height="170" alt="Top Languages"/>
 
 </div>
 
@@ -117,8 +117,6 @@
 
 <h2><samp>🔨 Projects by Commit Count</samp></h2>
 
-<p><sub>不写"热门"，只写投入了最多心血的</sub></p>
-
 </div>
 
 <!-- 项目表格 -->
@@ -147,26 +145,9 @@
 
 <div align="center">
 
-<details>
-<summary><samp>📖 关于天镜</samp></summary>
-
-<br/>
-
-> **暗夜多巴胺乐园 · 霓虹拼贴城**
->
-> 乐园因「数据熵增」正褪色崩解。
-> 异乡人被召唤至此，通过「归色」让色彩回流，
-> 但代价是遗忘自身故乡坐标。
->
-> 每一次着色都是温柔的牺牲，
-> 每一次告别都成为新快乐的种子。
->
-> **快乐不排斥悲伤。无序即秩序。**
-> 允许迷路，允许哭泣——
-> 落日时分，每一段被遗忘的记忆都化作发光胶囊，
-> 成为乐园不可删除的质地。
-
-</details>
+<a href="https://blog.8765777.xyz/about-me/">
+  <img src="https://img.shields.io/badge/📖_关于天镜-点击查看-ff2e88?style=for-the-badge&labelColor=1a1a2e&logo=bookstack&logoColor=00e5d0" alt="关于天镜"/>
+</a>
 
 <br/>
 
